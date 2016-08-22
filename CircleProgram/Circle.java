@@ -14,6 +14,7 @@ public class Circle {
                 System.out.println("Welcome");
                 System.out.println("to");
                 System.out.println("the");
+                System.out.println("class");
 		System.out.println(myCircle);
 		
 }
